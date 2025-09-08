@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Nithesh
 
 I’m a **Computer Science student** and **part-time blogger** with a passion for building smart, efficient, and creative digital solutions.  
 I love turning complex problems into simple, user-friendly applications while constantly exploring new technologies.  

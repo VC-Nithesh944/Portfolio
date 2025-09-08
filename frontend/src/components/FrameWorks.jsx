@@ -34,7 +34,7 @@ export function FrameWorks() {
         {skills.reverse().map((skill, index) => (
           <Icon
             key={index}
-            src={`src/assets/logos/${skill}.svg`}
+            src={`/assets/logos/${skill}.svg`}
             className="w-5"
           />
         ))}

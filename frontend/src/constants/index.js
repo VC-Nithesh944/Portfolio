@@ -5,12 +5,10 @@ export const myProjects = [
     description:
       "A modern job portal application that connects job seekers with employers, providing features like job posting, applications, and secure authentication.",
     subDescription: [
-      "Developed a full-stack application with React.js, Node.js, and Express.js.",
-      "Integrated secure authentication and multi-role user management with Clerk.",
-      "Built scalable REST APIs using MongoDB for persistence.",
-      "Implemented advanced job search with filtering and pagination.",
-      "Designed a responsive, mobile-first UI with Tailwind CSS.",
-      "Enhanced reliability with Sentry for real-time error monitoring and logging.",
+      "Built a full-stack application using React.js, Node.js, Express.js, and MongoDB",
+      "Integrated secure authentication and multi-role management with Clerk",
+      "Implemented advanced job search with filtering and pagination",
+      "Designed a responsive, mobile-first UI with Tailwind CSS",
     ],
     href: "https://job-hive-client.vercel.app/",
     logo: "",
@@ -21,7 +19,7 @@ export const myProjects = [
       { id: 3, name: "Express.js", path: "/assets/logos/express.svg" },
       { id: 4, name: "MongoDB", path: "/assets/logos/mongodb.svg" },
       { id: 5, name: "TailwindCSS", path: "/assets/logos/tailwindcss.svg" },
-      { id: 6, name: "Clerk", path: "/assets/logos/clerk.svg" },
+      { id: 6, name: "Clerk", path: "/assets/logos/clerk.png" },
     ],
   },
   {
@@ -39,10 +37,11 @@ export const myProjects = [
     logo: "",
     image: "/assets/projects/help2heal.jpg",
     tags: [
-      { id: 1, name: "React Native", path: "/assets/logos/reactnative.svg" },
-      { id: 2, name: "Node.js", path: "/assets/logos/nodejs.svg" },
+      { id: 1, name: "NextJs", path: "/assets/logos/nextjs2.svg" },
+      { id: 2, name: "React", path: "/assets/logos/react.svg" },
       { id: 3, name: "Express.js", path: "/assets/logos/express.svg" },
       { id: 4, name: "MongoDB", path: "/assets/logos/mongodb.svg" },
+      { id: 5, name: "NodeJs", path: "/assets/logos/nodejs.svg" },
     ],
   },
   {
@@ -80,10 +79,9 @@ export const myProjects = [
     logo: "",
     image: "/assets/projects/weathercast.jpg",
     tags: [
-      { id: 1, name: "React", path: "/assets/logos/react.svg" },
-      { id: 2, name: "OpenWeather API", path: "/assets/logos/api.svg" },
-      { id: 3, name: "JavaScript", path: "/assets/logos/javascript.svg" },
-      { id: 4, name: "CSS3", path: "/assets/logos/css3.svg" },
+      { id: 1, name: "HTML5", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "JavaScript", path: "/assets/logos/javascript.svg" },
+      { id: 3, name: "CSS3", path: "/assets/logos/css3.svg" },
     ],
   },
 ];
